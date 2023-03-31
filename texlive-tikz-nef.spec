@@ -1,6 +1,6 @@
 Name:		texlive-tikz-nef
 Version:	55920
-Release:	1
+Release:	2
 Summary:	Create diagrams for neural networks constructed with the methods of the Neural Engineering Framework (NEF)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-nef
