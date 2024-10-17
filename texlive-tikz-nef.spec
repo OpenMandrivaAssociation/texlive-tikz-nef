@@ -3,7 +3,7 @@ Version:	55920
 Release:	2
 Summary:	Create diagrams for neural networks constructed with the methods of the Neural Engineering Framework (NEF)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-nef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-nef
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-nef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-nef.doc.r%{version}.tar.xz
